@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A motivated Frontend Developer from Tunisia with a strong interest in modern web technologies. I enjoy creating fast, responsive, and visually appealing interfaces using React and Tailwind CSS.</h3>
 
 - 📫 How to reach me **youssefchaabane68@gmail.com**
 
